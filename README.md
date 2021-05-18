@@ -1,0 +1,2 @@
+# M480BSP_ISP_HID_20_VarAllocate
+ M480BSP_ISP_HID_20_VarAllocate
