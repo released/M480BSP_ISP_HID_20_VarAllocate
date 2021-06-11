@@ -1,6 +1,20 @@
 # M480BSP_ISP_HID_20_VarAllocate
  M480BSP_ISP_HID_20_VarAllocate
 
+update @ 2021/06/11
+
+1. add Executable File folder , to test command line ISP tool 
+
+2. check batch file content , to write data into APROM
+
+3. below is command line
+
+		NuvoISP.exe -aprom ER_IROM1 -interface HID -run
+		
+4. flow : click batch file , to entry ISP GUI , under APROM , press digit 1 , to return to LDROM 
+
+
+
 update @ 2021/05/18
 
 1. LDROM : use BSP ISP_HID_20 sample code , with flag in SRAM (without initial) to control update flow
