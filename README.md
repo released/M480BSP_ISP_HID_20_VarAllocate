@@ -31,6 +31,8 @@ update @ 2021/05/18
 
 3. use ISP programming tool (USB) , to programming APROM , project 01 and project 02
 
+![image](https://github.com/released/M480BSP_ISP_HID_20_VarAllocate/blob/main/ISP_config.jpg)
+
 4. below is ICP config setting , set boot as LDROM
 
 ![image](https://github.com/released/M480BSP_ISP_HID_20_VarAllocate/blob/main/ICP_config.jpg)
